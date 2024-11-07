@@ -1,8 +1,12 @@
-<h1>Hi, I'm Dash! <br/><a href="https://www.linkedin.com/in/dashporter/"> Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Dash! <br/><a href="https://www.linkedin.com/in/dashporter/"> Aspiring IT & Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - 
+
+<h2>👨‍💻 IT Projects:</h2>
+
+  - [Python To-Do List CLI Application](https://github.com/PixelPhvntom/Python-todo-list/tree/main)
  
 <h2>📄 Certifications:</h2>
 
