@@ -1,19 +1,23 @@
 <h1>Hi, I'm Dash! <br/><a href="https://www.linkedin.com/in/dashporter/"> Aspiring IT & Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
   - 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨🏾‍💻 IT Projects:</h2>
 
   - [Python To-Do List CLI Application](https://github.com/PixelPhvntom/Python-todo-list/tree/main)
  
 <h2>📄 Certifications:</h2>
 
   - [FCF Cybersecurity](https://www.credly.com/badges/6aa08583-e0a1-483d-b473-067f95713eda/public_url)
-  - [Google Cybersecurity](https://www.credly.com/badges/a8593633-0130-47b8-9dd4-5b9be3f644a8/public_url)
   - (ISC)² Certified in Cybersecurity | In Progress
   - CompTIA Security+ | Will obtain after (ISC)² CC
+
+ <h2>📄 Certificates:</h2>
+
+  - [Google Cybersecurity](https://www.credly.com/badges/a8593633-0130-47b8-9dd4-5b9be3f644a8/public_url)
+  - FEMA NISM IS-100.C: Incident Command System
 
   
 <h2> 🤳 Connect with me:</h2>
