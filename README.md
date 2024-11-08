@@ -2,7 +2,7 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-  - [File Permission In Linux] (https://github.com/PixelPhvntom/File-Permissions-In-Linux)
+  - [File Permission In Linux](https://github.com/PixelPhvntom/File-Permissions-In-Linux)
 
 <h2>👨🏾‍💻 IT Projects:</h2>
 
